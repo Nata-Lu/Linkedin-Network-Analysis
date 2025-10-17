@@ -1,0 +1,558 @@
+Connected On,Company Employee Range,Location,Person_ID,Company_Anon,Industry_Anon,Function
+16 Jan 2025,201 to 500,"Houston, Texas, United States",Person_001,Company_255,Focus_Industry_1,Procurement/Supply Chain
+13 Jan 2025,5001 to 10000,Dallas-Fort Worth Metroplex,Person_002,Company_141,Industry_15,Management
+12 Jan 2025,,"Swakopmund, Erongo Region, Namibia",Person_003,Company_163,Focus_Industry_2,Engineering/Technical/Science
+10 Jan 2025,,"Houston, Texas, United States",Person_004,Freelance,Industry_14,Freelance
+10 Jan 2025,1001 to 5000,"Almaty, Kazakhstan",Person_005,Company_001,Industry_03,Management
+09 Jan 2025,,"Stoughton, England, United Kingdom",Person_006,Company_074,Focus_Industry_3,Sales/Business Development
+07 Jan 2025,10001+,"Houston, Texas, United States",Person_007,Company_202,Focus_Industry_1,Procurement/Supply Chain
+07 Jan 2025,,"City of Johannesburg, Gauteng, South Africa",Person_008,Company_269,Focus_Industry_2,Sales/Business Development
+04 Jan 2025,,Mozambique,Person_009,Company_244,Industry_14,Management
+27 Dec 2024,,Tanzania,Person_010,Company_286,Focus_Industry_2,Consultant/Advisor/Coach
+23 Dec 2024,10001+,"Houston, Texas, United States",Person_011,Company_271,Focus_Industry_1,Procurement/Supply Chain
+19 Dec 2024,5001 to 10000,Denver Metropolitan Area,Person_012,Company_128,Industry_05,Management
+18 Dec 2024,10001+,"Nashville, Tennessee, United States",Person_013,Company_331,Industry_08,Sales/Business Development
+16 Dec 2024,,Sweden,Person_014,Company_340,Industry_03,Management
+14 Dec 2024,10001+,"Amsterdam, North Holland, Netherlands",Person_015,Company_230,Industry_05,Management
+13 Dec 2024,10001+,Peoria Metropolitan Area,Person_016,Company_073,Focus_Industry_4,Procurement/Supply Chain
+12 Dec 2024,1001 to 5000,Côte d'Ivoire,Person_017,Company_085,Industry_04,Management
+12 Dec 2024,5001 to 10000,"West Valley City, Utah, United States",Person_018,Company_052,Focus_Industry_2,Other
+12 Dec 2024,1001 to 5000,"Farnborough, England, United Kingdom",Person_019,Company_118,Focus_Industry_3,Marketing
+12 Dec 2024,11 to 50,Greater Exeter Area,Person_020,Company_361,Industry_01,Management
+12 Dec 2024,201 to 500,"Changsha, Hunan, China",Person_021,Company_227,Industry_16,Sales/Business Development
+12 Dec 2024,501 to 1000,"Kolwezi, Lualaba, Democratic Republic of the Congo",Person_022,Company_194,Focus_Industry_2,Marketing
+11 Dec 2024,1001 to 5000,"Kaysville, Utah, United States",Person_023,Company_077,Industry_15,Procurement/Supply Chain
+10 Dec 2024,10001+,Denver Metropolitan Area,Person_024,Company_225,Focus_Industry_1,Other
+10 Dec 2024,10001+,"Buffalo Grove, Illinois, United States",Person_025,Company_043,Focus_Industry_1,Procurement/Supply Chain
+09 Dec 2024,1001 to 5000,Finland,Person_026,Company_091,Focus_Industry_4,Sales/Business Development
+07 Dec 2024,5001 to 10000,Atlanta Metropolitan Area,Person_027,Company_141,Industry_15,Procurement/Supply Chain
+06 Dec 2024,11 to 50,"Shreveport, Louisiana, United States",Person_028,Company_027,Focus_Industry_3,Sales/Business Development
+06 Dec 2024,501 to 1000,"Rosario, Santa Fe, Argentina",Person_029,Company_393,Focus_Industry_3,Management
+05 Dec 2024,5001 to 10000,"Budapest, Budapest, Hungary",Person_030,Company_375,Industry_06,Consultant/Advisor/Coach
+03 Dec 2024,10001+,"Burlington, Kentucky, United States",Person_031,Company_161,Industry_15,Procurement/Supply Chain
+03 Dec 2024,1001 to 5000,Des Moines Metropolitan Area,Person_032,Company_387,Focus_Industry_4,Other
+02 Dec 2024,10001+,Democratic Republic of the Congo,Person_033,Company_046,Focus_Industry_2,Operations/Production
+02 Dec 2024,,"Espoo, Uusimaa, Finland",Person_034,Company_049,Focus_Industry_3,Management
+02 Dec 2024,11 to 50,"Bradford, England, United Kingdom",Person_035,Company_296,Focus_Industry_3,Other
+02 Dec 2024,10001+,"Karaganda, Karaganda Region, Kazakhstan",Person_036,Company_010,Industry_04,Other
+02 Dec 2024,1001 to 5000,Ghana,Person_037,Company_011,Focus_Industry_2,Management
+30 Nov 2024,,"Marlow, Oklahoma, United States",Person_038,Company_155,Focus_Industry_1,Procurement/Supply Chain
+28 Nov 2024,10001+,Kazakhstan,Person_039,Company_089,Industry_12,Management
+28 Nov 2024,,"Öskemen q.ä., East Kazakhstan Region, Kazakhstan",Person_040,Company_117,Industry_15,Sales/Business Development
+27 Nov 2024,5001 to 10000,"Western Cape, South Africa",Person_041,Company_386,Focus_Industry_2,Management
+18 Nov 2024,10001+,"Concord, North Carolina, United States",Person_042,Company_161,Industry_15,Procurement/Supply Chain
+18 Nov 2024,10001+,"Riga, Latvia",Person_043,Company_127,Focus_Industry_4,Management
+18 Nov 2024,10001+,"New Delhi, Delhi, India",Person_044,Company_300,Industry_01,Marketing
+18 Nov 2024,51 to 200,Ukraine,Person_045,Company_216,Industry_12,Management
+17 Nov 2024,10001+,Zambia,Person_046,Company_417,Focus_Industry_4,Management
+13 Nov 2024,,Tanzania,Person_047,Company_328,Focus_Industry_2,Operations/Production
+09 Nov 2024,,Zambia,Person_048,Company_046,Focus_Industry_2,Management
+08 Nov 2024,10001+,Atlanta Metropolitan Area,Person_049,Company_081,Industry_02,Management
+05 Nov 2024,10001+,Democratic Republic of the Congo,Person_050,Company_046,Focus_Industry_2,Engineering/Technical/Science
+03 Nov 2024,10001+,Austria,Person_051,Company_127,Focus_Industry_4,Management
+02 Nov 2024,5001 to 10000,Kazakhstan,Person_052,Company_197,Focus_Industry_1,Procurement/Supply Chain
+02 Nov 2024,5001 to 10000,"Alpharetta, Georgia, United States",Person_053,Company_390,Focus_Industry_2,Procurement/Supply Chain
+01 Nov 2024,5001 to 10000,Senegal,Person_054,Company_116,Focus_Industry_2,Engineering/Technical/Science
+01 Nov 2024,,Zambia,Person_055,Company_061,Focus_Industry_2,Management
+01 Nov 2024,10001+,"Almaty, Kazakhstan",Person_056,Company_230,Industry_05,Other
+01 Nov 2024,11 to 50,"Bucharest, Bucharest, Romania",Person_057,Company_385,Industry_12,Management
+01 Nov 2024,11 to 50,United States,Person_058,Company_205,Industry_16,Communications
+31 Oct 2024,1001 to 5000,New York City Metropolitan Area,Person_059,Company_312,Industry_05,Procurement/Supply Chain
+21 Oct 2024,10001+,"Marlow, Oklahoma, United States",Person_060,Company_155,Focus_Industry_1,Procurement/Supply Chain
+21 Oct 2024,5001 to 10000,"Butler, Pennsylvania, United States",Person_061,Company_395,Focus_Industry_1,Management
+20 Oct 2024,10001+,"Tarime, Mara Region, Tanzania",Person_062,Company_046,Focus_Industry_2,Management
+18 Oct 2024,10001+,Zambia,Person_063,Company_046,Focus_Industry_2,Operations/Production
+17 Oct 2024,1001 to 5000,"Quedjinup, Western Australia, Australia",Person_064,Company_066,Focus_Industry_2,Management
+17 Oct 2024,5001 to 10000,"Longs, South Carolina, United States",Person_065,Company_107,Focus_Industry_2,Procurement/Supply Chain
+13 Oct 2024,2 to 10,Zambia,Person_066,Company_245,Industry_08,Management
+11 Oct 2024,10001+,"Richmond, Texas, United States",Person_067,Company_048,Industry_07,Procurement/Supply Chain
+10 Oct 2024,11 to 50,Zimbabwe,Person_068,Company_149,Focus_Industry_2,Management
+07 Oct 2024,10001+,"Summerville, South Carolina, United States",Person_069,Company_089,Industry_12,Management
+04 Oct 2024,10001+,"Southlake, Texas, United States",Person_070,Company_161,Industry_15,Management
+04 Oct 2024,10001+,Salt Lake City Metropolitan Area,Person_071,Company_359,Industry_06,Other
+29 Sep 2024,,Kenya,Person_072,Company_304,Focus_Industry_2,Management
+27 Sep 2024,,"Cambridge, Massachusetts, United States",Person_073,Company_382,Focus_Industry_2,Communications
+27 Sep 2024,11 to 50,"Malden, Massachusetts, United States",Person_074,Company_069,Industry_01,Sales/Business Development
+20 Sep 2024,10001+,"Fairbury, Illinois, United States",Person_075,Company_073,Focus_Industry_4,Procurement/Supply Chain
+19 Sep 2024,1001 to 5000,"Houston, Texas, United States",Person_076,Company_349,Focus_Industry_1,Procurement/Supply Chain
+18 Sep 2024,,Guinea,Person_077,Company_351,Focus_Industry_2,Engineering/Technical/Science
+17 Sep 2024,10001+,"Tempe, Arizona, United States",Person_078,Company_287,Industry_08,Procurement/Supply Chain
+17 Sep 2024,201 to 500,"Mandurah, Western Australia, Australia",Person_079,Company_177,Focus_Industry_2,Management
+16 Sep 2024,11 to 50,"Sapulpa, Oklahoma, United States",Person_080,Company_342,Focus_Industry_4,Management
+15 Sep 2024,,"Western Area, Sierra Leone",Person_081,Company_211,Focus_Industry_2,Management
+03 Sep 2024,,"Kicukiro District, Kigali City, Rwanda",Person_082,Company_123,Industry_12,IT/Data/Digital
+31 Aug 2024,201 to 500,"Harare, Harare, Zimbabwe",Person_083,Company_201,Industry_08,Operations/Production
+29 Aug 2024,1001 to 5000,"Odessa, Texas, United States",Person_084,Company_199,Focus_Industry_1,Procurement/Supply Chain
+29 Aug 2024,,"Mutare, Manicaland Province, Zimbabwe",Person_085,Company_353,Focus_Industry_2,Other
+28 Aug 2024,2 to 10,Madagascar,Person_086,Company_083,Industry_01,Management
+25 Aug 2024,,Tanzania,Person_087,Company_347,Focus_Industry_4,Management
+22 Aug 2024,5001 to 10000,"Spring, Texas, United States",Person_088,Company_320,Focus_Industry_1,Procurement/Supply Chain
+19 Aug 2024,1001 to 5000,"Houston, Texas, United States",Person_089,Company_065,Focus_Industry_1,Procurement/Supply Chain
+17 Aug 2024,1001 to 5000,Australia,Person_090,Company_259,Focus_Industry_2,Engineering/Technical/Science
+15 Aug 2024,2 to 10,Tanzania,Person_091,Company_026,Focus_Industry_2,Engineering/Technical/Science
+14 Aug 2024,1001 to 5000,"Tulsa, Oklahoma, United States",Person_092,Company_352,Focus_Industry_1,Management
+09 Aug 2024,,Tanzania,Person_093,Company_339,Focus_Industry_2,Management
+03 Aug 2024,10001+,Atlanta Metropolitan Area,Person_094,Company_073,Focus_Industry_4,Procurement/Supply Chain
+30 Jul 2024,501 to 1000,"Moscow, Moscow City, Russia",Person_095,Company_319,Industry_12,Education/Training/Academia
+26 Jul 2024,,"Kitwe, Copperbelt Province, Zambia",Person_096,Company_006,Industry_12,Management
+25 Jul 2024,11 to 50,"Ndola, Copperbelt Province, Zambia",Person_097,Company_120,Focus_Industry_2,Other
+25 Jul 2024,,"Lusaka, Lusaka Province, Zambia",Person_098,Company_335,Industry_14,Management
+24 Jul 2024,,Zimbabwe,Person_099,Company_408,Focus_Industry_2,Engineering/Technical/Science
+24 Jul 2024,1001 to 5000,"Pearland, Texas, United States",Person_100,Company_336,Focus_Industry_1,Marketing
+24 Jul 2024,,"Lusaka Province, Zambia",Person_101,Company_060,Focus_Industry_2,Management
+17 Jul 2024,1001 to 5000,Youngstown-Warren area,Person_102,Company_383,Focus_Industry_1,Procurement/Supply Chain
+15 Jul 2024,10001+,"Ankeny, Iowa, United States",Person_103,Company_007,Focus_Industry_4,Management
+15 Jul 2024,10001+,"Sewickley, Pennsylvania, United States",Person_104,Company_021,Focus_Industry_2,Procurement/Supply Chain
+14 Jul 2024,,Zambia,Person_105,Company_409,Focus_Industry_2,Management
+12 Jul 2024,5001 to 10000,"Toronto, Ontario, Canada",Person_106,Company_157,Industry_05,Other
+11 Jul 2024,10001+,"City of Johannesburg, Gauteng, South Africa",Person_107,Company_174,Focus_Industry_2,Operations/Production
+09 Jul 2024,10001+,Tanzania,Person_108,Company_046,Focus_Industry_2,Management
+08 Jul 2024,201 to 500,Zambia,Person_109,Company_196,Focus_Industry_2,Management
+06 Jul 2024,5001 to 10000,"City of Johannesburg, Gauteng, South Africa",Person_110,Company_116,Focus_Industry_2,Other
+12 Jun 2024,,Mozambique,Person_111,Company_241,Focus_Industry_2,Operations/Production
+09 Jun 2024,10001+,"Makindye, Central Region, Uganda",Person_112,Company_046,Focus_Industry_2,Management
+06 Jun 2024,,"Accra, Greater Accra Region, Ghana",Person_113,Company_148,Focus_Industry_2,Management
+03 Jun 2024,10001+,Zambia,Person_114,Company_067,Industry_14,Management
+01 Jun 2024,10001+,"Spring, Texas, United States",Person_115,Company_043,Focus_Industry_1,Procurement/Supply Chain
+01 Jun 2024,,"Lumwana, North-Western Province, Zambia",Person_116,Company_046,Focus_Industry_2,Marketing
+29 May 2024,1001 to 5000,Ghana,Person_117,Company_259,Focus_Industry_2,Engineering/Technical/Science
+29 May 2024,501 to 1000,"Spring, Texas, United States",Person_118,Company_124,Focus_Industry_1,Management
+25 May 2024,,Zambia,Person_119,Company_126,Focus_Industry_2,Operations/Production
+23 May 2024,,United States,Person_120,,Focus_Industry_4,Unknown
+20 May 2024,10001+,Ghana,Person_121,Company_030,Focus_Industry_2,Management
+18 May 2024,10001+,United States,Person_122,Company_161,Industry_15,Management
+17 May 2024,1001 to 5000,"Bridgeport, West Virginia, United States",Person_123,Company_212,Focus_Industry_1,Procurement/Supply Chain
+15 May 2024,,"Kitwe, Copperbelt Province, Zambia",Person_124,Company_210,Focus_Industry_2,Other
+15 May 2024,1001 to 5000,"Copperbelt Province, Zambia",Person_125,Company_214,Focus_Industry_2,Operations/Production
+14 May 2024,1001 to 5000,"Dar es Salaam, Tanzania",Person_126,Company_389,Focus_Industry_1,Sales/Business Development
+09 May 2024,1001 to 5000,"City of Johannesburg, Gauteng, South Africa",Person_127,Company_023,Focus_Industry_2,Management
+07 May 2024,10001+,"Kahama Urban, Shinyanga Region, Tanzania",Person_128,Company_046,Focus_Industry_2,Other
+06 May 2024,10001+,Greater Houston,Person_129,Company_202,Focus_Industry_1,Procurement/Supply Chain
+04 May 2024,501 to 1000,"North-Western Province, Zambia",Person_130,Company_057,Industry_14,Management
+01 May 2024,10001+,Greater Phoenix Area,Person_131,Company_161,Industry_15,Other
+29 Apr 2024,1001 to 5000,"Cochabamba, Bolivia",Person_132,Company_317,Focus_Industry_2,Management
+27 Apr 2024,5001 to 10000,Zambia,Person_133,Company_222,Focus_Industry_2,Engineering/Technical/Science
+16 Apr 2024,,Zambia,Person_134,Company_193,Focus_Industry_2,Management
+30 Mar 2024,5001 to 10000,Los Angeles Metropolitan Area,Person_135,Company_338,Industry_12,Procurement/Supply Chain
+14 Mar 2024,11 to 50,United Arab Emirates,Person_136,Company_156,Industry_04,Management
+14 Mar 2024,51 to 200,Bulgaria,Person_137,Company_267,Industry_16,Management
+11 Mar 2024,51 to 200,"Caxambu do Sul, Santa Catarina, Brazil",Person_138,Company_014,Industry_08,Marketing
+06 Mar 2024,,United States,Person_139,Company_401,Focus_Industry_2,Management
+05 Mar 2024,2 to 10,"Morgantown, West Virginia, United States",Person_140,Company_176,Focus_Industry_1,Management
+04 Mar 2024,10001+,Chile,Person_141,Company_010,Industry_04,Procurement/Supply Chain
+04 Mar 2024,11 to 50,Denver Metropolitan Area,Person_142,Company_350,Focus_Industry_1,Management
+04 Mar 2024,51 to 200,"Midland County, Texas, United States",Person_143,Company_298,Focus_Industry_1,Engineering/Technical/Science
+04 Mar 2024,11 to 50,United States,Person_144,Company_372,Focus_Industry_4,Management
+04 Mar 2024,10001+,"Varedo, Lombardy, Italy",Person_145,Company_058,Industry_05,Sales/Business Development
+20 Feb 2024,51 to 200,"London, England, United Kingdom",Person_146,Company_101,Industry_13,IT/Data/Digital
+15 Jan 2024,10001+,Basel Metropolitan Area,Person_147,Company_012,Industry_15,Other
+13 Jan 2024,,"Oral, West Kazakhstan Region, Kazakhstan",Person_148,Company_191,Focus_Industry_1,Management
+13 Oct 2023,10001+,"Moscow, Moscow City, Russia",Person_149,Company_404,Industry_12,Management
+12 Oct 2023,10001+,"Allentown, Pennsylvania, United States",Person_150,Company_233,Focus_Industry_3,Management
+11 Apr 2023,2 to 10,United Arab Emirates,Person_151,Company_173,Industry_05,Management
+29 Mar 2023,201 to 500,"Mexico City, Mexico",Person_152,Company_131,Focus_Industry_1,Management
+17 Feb 2023,,"Moscow, Moscow City, Russia",Person_153,Company_204,Industry_16,Management
+30 Nov 2022,11 to 50,Greater Málaga Metropolitan Area,Person_154,Company_272,Industry_05,Management
+12 Jul 2022,,"Minsk, Belarus",Person_155,Freelance,Industry_16,Freelance
+02 Jun 2022,10001+,Greater Chennai Area,Person_156,Company_136,Industry_12,Consultant/Advisor/Coach
+30 May 2022,11 to 50,"North Delhi, Delhi, India",Person_157,Company_009,Industry_02,Other
+14 Apr 2022,,Bangladesh,Person_158,Company_264,Industry_04,Marketing
+13 Apr 2022,,"Delhi, India",Person_159,Company_321,Industry_02,Management
+13 Apr 2022,1001 to 5000,"Mumbai, Maharashtra, India",Person_160,Company_345,Industry_12,Consultant/Advisor/Coach
+13 Apr 2022,,Greater Tokyo Area,Person_161,Freelance,Industry_16,Freelance
+13 Apr 2022,1001 to 5000,"Bengaluru, Karnataka, India",Person_162,Company_345,Industry_12,Engineering/Technical/Science
+13 Apr 2022,,"Nasik, Maharashtra, India",Person_163,Company_367,Industry_08,Consultant/Advisor/Coach
+12 Apr 2022,,"Overland Park, Kansas, United States",Person_164,Company_311,Industry_16,Communications
+12 Apr 2022,,"Edison, New Jersey, United States",Person_165,Company_309,Industry_12,Communications
+14 Feb 2022,201 to 500,"Moscow, Moscow City, Russia",Person_166,Company_403,Industry_05,Management
+14 Sep 2021,51 to 200,"Dubai, United Arab Emirates",Person_167,Company_229,Industry_01,HR/People/Talent
+04 Aug 2021,201 to 500,"Glasgow, Scotland, United Kingdom",Person_168,Company_144,Industry_09,HR/People/Talent
+26 Aug 2020,,Russia,Person_169,Company_109,Focus_Industry_2,Management
+05 Jun 2020,1001 to 5000,Uzbekistan,Person_170,Company_341,Industry_06,IT/Data/Digital
+16 Feb 2020,myself only,"New York, New York, United States",Person_171,Company_187,Industry_13,Legal/Compliance
+12 Feb 2020,1001 to 5000,"Hong Kong, Hong Kong SAR",Person_172,Company_093,Industry_13,Legal/Compliance
+14 Jan 2020,501 to 1000,"New York, New York, United States",Person_173,Company_282,Industry_04,Management
+18 Nov 2019,,"Moscow, Moscow City, Russia",Person_174,Company_435,Industry_07,Other
+13 Nov 2019,2 to 10,"Evergreen, Colorado, United States",Person_175,Company_369,Focus_Industry_4,Engineering/Technical/Science
+30 Oct 2019,,"Washington, District of Columbia, United States",Person_176,Company_392,Industry_01,Other
+24 Oct 2019,1001 to 5000,Greater Boston,Person_177,Company_050,Industry_12,Engineering/Technical/Science
+08 Oct 2019,10001+,Greater Boston,Person_178,Company_036,Focus_Industry_3,Management
+04 Oct 2019,51 to 200,"Sacramento, California, United States",Person_179,Company_099,Industry_12,Engineering/Technical/Science
+30 Sep 2019,,"New York, New York, United States",Person_180,Company_147,Industry_04,Other
+24 Sep 2019,1001 to 5000,Israel,Person_181,Company_047,Focus_Industry_3,Management
+23 Sep 2019,,Greater Paris Metropolitan Region,Person_182,Company_276,Industry_07,Management
+21 Sep 2019,51 to 200,Russia,Person_183,Company_167,Focus_Industry_2,Management
+16 Sep 2019,,Kazakhstan,Person_184,Company_232,Industry_13,Legal/Compliance
+16 Sep 2019,5001 to 10000,"Agrate Brianza, Lombardy, Italy",Person_185,Company_125,Industry_07,Engineering/Technical/Science
+15 Sep 2019,11 to 50,Kazakhstan,Person_186,Company_221,Industry_04,Other
+13 Sep 2019,,"Tallinn, Harjumaa, Estonia",Person_187,Company_398,Focus_Industry_1,Management
+03 Sep 2019,201 to 500,"Luxembourg, Luxembourg, Luxembourg",Person_188,Company_285,Focus_Industry_4,Management
+02 Sep 2019,,United Kingdom,Person_189,Freelance,Industry_05,Freelance
+02 Sep 2019,,"Sainte-Marguerite, Grand Est, France",Person_190,Company_003,Industry_01,Other
+26 Aug 2019,1001 to 5000,"Bratislava, Slovakia",Person_191,Company_160,Industry_09,Engineering/Technical/Science
+16 Aug 2019,1001 to 5000,Kazakhstan,Person_192,Company_238,Industry_13,Communications
+06 Aug 2019,,"Glasgow, Scotland, United Kingdom",Person_193,Company_273,Focus_Industry_2,Management
+30 Jul 2019,10001+,"Chicago, Illinois, United States",Person_194,Company_071,Focus_Industry_3,Marketing
+26 Jul 2019,10001+,"Stadt Hamburg, Hamburg, Germany",Person_195,Freelance,Industry_12,Freelance
+26 Jul 2019,,Lebanon,Person_195,Freelance,Industry_05,Freelance
+27 Jul 2012,10001+,"Stadt Hamburg, Hamburg, Germany",Person_195,Company_235,Industry_12,Engineering/Technical/Science
+27 Jul 2012,,Lebanon,Person_195,Company_235,Industry_05,Engineering/Technical/Science
+09 Jul 2019,,"Tours, Centre-Val de Loire, France",Person_196,Company_415,Focus_Industry_4,Management
+03 Jul 2019,11 to 50,Russia,Person_197,Company_018,Industry_04,Management
+24 Jun 2019,,"Milan, Lombardy, Italy",Person_198,Company_079,Industry_04,Management
+17 Jun 2019,10001+,Kazakhstan,Person_199,Company_278,Focus_Industry_2,Management
+17 Jun 2019,201 to 500,"Milan, Lombardy, Italy",Person_200,Company_172,Industry_06,IT/Data/Digital
+16 May 2019,2 to 10,Greater Toulouse Metropolitan Area,Person_201,Company_275,Industry_05,Marketing
+13 May 2019,,"Baar, Zug, Switzerland",Person_202,Company_044,Industry_04,Management
+02 May 2019,51 to 200,"Riga, Latvia",Person_203,Company_224,Industry_12,Management
+02 May 2019,,Latvia,Person_204,Company_329,Industry_04,Other
+15 Apr 2019,51 to 200,"New York, New York, United States",Person_205,Company_362,Industry_01,IT/Data/Digital
+29 Mar 2019,10001+,"Moscow, Moscow City, Russia",Person_206,Company_344,Industry_10,Other
+16 Mar 2019,,Kazakhstan,Person_207,Company_139,Industry_13,Management
+18 Feb 2019,2 to 10,"Amsterdam, North Holland, Netherlands",Person_208,Company_292,Industry_12,Management
+05 Feb 2019,,"Homer, Ohio, United States",Person_209,Company_180,Industry_08,Management
+05 Feb 2019,,"Pillager, Minnesota, United States",Person_210,,Focus_Industry_2,Unknown
+23 Jun 2024,10001+,"Phoenix, Arizona, United States",Person_211,Company_161,Industry_15,Procurement/Supply Chain
+11 Jan 2019,201 to 500,"City of Johannesburg, Gauteng, South Africa",Person_212,Company_104,Focus_Industry_4,Management
+24 Dec 2018,1001 to 5000,Kazakhstan,Person_213,Company_357,Focus_Industry_1,Management
+20 Dec 2018,,"Moscow, Moscow City, Russia",Person_214,Company_135,Industry_01,Sales/Business Development
+21 Jun 2024,,"West Vancouver, British Columbia, Canada",Person_215,Company_046,Focus_Industry_2,Management
+18 Dec 2018,10001+,Austria,Person_216,Company_234,Focus_Industry_4,Sales/Business Development
+10 Dec 2018,10001+,"Cincinnati, Ohio, United States",Person_217,Company_137,Industry_09,Management
+30 Nov 2018,11 to 50,"London, England, United Kingdom",Person_218,Company_348,Industry_09,Sales/Business Development
+09 Nov 2018,2 to 10,New York City Metropolitan Area,Person_219,Company_306,Industry_06,IT/Data/Digital
+18 Jun 2024,,"Emalahleni, Mpumalanga, South Africa",Person_220,Company_270,Focus_Industry_2,Management
+04 Nov 2018,10001+,"Shanghai, China",Person_221,Company_257,Industry_12,Other
+30 Oct 2018,,"New York, New York, United States",Person_222,Company_384,Industry_12,Management
+30 Oct 2018,2 to 10,"New York, New York, United States",Person_223,Company_217,Industry_16,Management
+05 Oct 2018,51 to 200,"Almaty, Kazakhstan",Person_224,Company_192,Focus_Industry_1,Legal/Compliance
+03 Oct 2018,10001+,"New York, New York, United States",Person_225,Company_186,Industry_02,Other
+30 Sep 2018,51 to 200,Canada,Person_226,Company_295,Industry_07,Other
+30 Sep 2018,,Russia,Person_227,Freelance,Industry_16,Freelance
+30 Sep 2018,,"Santa Monica, California, United States",Person_228,Company_051,Industry_15,Management
+28 Sep 2018,10001+,"Greater London, England, United Kingdom",Person_229,Company_097,Industry_13,Management
+06 Sep 2018,501 to 1000,"Moscow, Moscow City, Russia",Person_230,Company_360,Industry_06,Freelance
+15 Aug 2018,5001 to 10000,"San Antonio, Texas, United States",Person_231,Company_373,Industry_06,Other
+31 Jul 2018,,Russia,Person_232,Company_138,Industry_16,Management
+31 Jul 2018,51 to 200,Russia,Person_232,Company_138,Industry_16,Management
+28 Jul 2013,,Russia,Person_232,Company_146,Industry_16,IT/Data/Digital
+28 Jul 2013,51 to 200,Russia,Person_232,Company_146,Industry_16,IT/Data/Digital
+16 Jul 2018,1001 to 5000,"Washington, District of Columbia, United States",Person_233,Company_249,Industry_01,Other
+11 Jul 2018,,"Monterey, California, United States",Person_234,Company_371,Industry_07,Management
+11 Jul 2018,10001+,Serbia,Person_235,Company_248,Focus_Industry_1,Management
+26 Jun 2018,10001+,Kazakhstan,Person_236,Company_190,Focus_Industry_2,Communications
+18 Jun 2018,51 to 200,Russia,Person_237,Company_364,Industry_06,Management
+08 Jun 2018,10001+,"Moscow, Moscow City, Russia",Person_238,Company_337,Focus_Industry_2,Management
+07 May 2018,myself only,"Dubai, United Arab Emirates",Person_239,Company_297,Industry_04,Consultant/Advisor/Coach
+23 Apr 2018,,Russia,Person_240,,,Unknown
+23 Apr 2018,10001+,Russia,Person_241,Company_381,Industry_04,Management
+19 Apr 2018,10001+,Kazakhstan,Person_242,Company_230,Industry_05,Management
+31 Mar 2018,2 to 10,Los Angeles Metropolitan Area,Person_243,Company_228,Industry_04,Management
+25 Mar 2018,10001+,"Bertrange, Luxembourg, Luxembourg",Person_244,Company_334,Focus_Industry_4,Sales/Business Development
+20 Mar 2018,,"Moscow, Moscow City, Russia",Person_245,Company_213,Industry_14,Other
+14 Mar 2018,10001+,"Moscow, Moscow City, Russia",Person_246,Company_086,Industry_07,Consultant/Advisor/Coach
+14 Mar 2018,11 to 50,Greater Boston,Person_247,Company_092,Industry_06,Management
+09 Mar 2018,11 to 50,"Meilen, Zurich, Switzerland",Person_248,Company_324,Industry_04,Management
+08 Mar 2018,51 to 200,Latvia,Person_249,Company_004,Industry_04,Management
+25 Feb 2018,11 to 50,Basel Metropolitan Area,Person_250,Company_096,Industry_10,Management
+25 Feb 2018,,"Dubai, United Arab Emirates",Person_251,Company_308,Industry_07,Management
+18 Feb 2018,,"Moscow, Russia",Person_252,Company_430,Industry_05,Other
+15 Feb 2018,10001+,"Espoo, Uusimaa, Finland",Person_253,Company_230,Industry_05,Management
+06 Feb 2018,201 to 500,"Tel Aviv District, Israel",Person_254,Company_418,Industry_12,IT/Data/Digital
+04 Feb 2018,501 to 1000,Israel,Person_255,Company_268,Industry_12,Engineering/Technical/Science
+24 Jan 2018,,Kazakhstan,Person_256,Company_357,Focus_Industry_1,Management
+18 Jan 2018,1001 to 5000,"Almaty, Kazakhstan",Person_257,Company_357,Focus_Industry_1,Management
+18 Jan 2018,,"Tashkent, Uzbekistan",Person_258,Company_072,Industry_15,Management
+13 Jan 2018,,"West Jerusalem, Jerusalem District, Israel",Person_259,Company_283,Industry_12,Management
+13 Jan 2018,,"Sakākah, Al Jawf, Saudi Arabia",Person_260,Company_307,Industry_07,Management
+11 Jan 2018,,"Catania, Sicily, Italy",Person_261,Company_038,Industry_07,IT/Data/Digital
+01 Dec 2017,201 to 500,"Moscow, Moscow City, Russia",Person_262,Company_240,Industry_06,Management
+29 Nov 2017,10001+,"Towson, Maryland, United States",Person_263,Company_188,Focus_Industry_3,Other
+22 Nov 2017,,Kazakhstan,Person_264,Company_230,Industry_05,Other
+20 Nov 2017,,Ukraine,Person_265,Freelance,Industry_05,Freelance
+10 Nov 2017,,"Monaco, Monaco, Monaco",Person_266,Company_103,Industry_04,Management
+07 Nov 2017,5001 to 10000,"West Jerusalem, Jerusalem District, Israel",Person_267,Company_243,Industry_06,Management
+02 Nov 2017,51 to 200,"Moscow, Moscow City, Russia",Person_268,Company_146,Industry_16,Sales/Business Development
+01 Nov 2017,1001 to 5000,United States,Person_269,Company_152,Industry_10,Consultant/Advisor/Coach
+29 Oct 2017,,"London, England, United Kingdom",Person_270,Company_206,Industry_04,Management
+23 Oct 2017,,"Moscow, Russia",Person_271,Freelance,Industry_06,Freelance
+23 Oct 2017,1001 to 5000,Israel,Person_272,Company_315,Industry_12,Engineering/Technical/Science
+17 Oct 2017,51 to 200,"Fair Lawn, New Jersey, United States",Person_273,Company_143,Industry_12,Management
+16 Oct 2017,501 to 1000,"New London, Connecticut, United States",Person_274,Company_084,Industry_06,Marketing
+16 Oct 2017,,Saint Petersburg Metropolitan Area,Person_275,Company_433,Industry_16,Communications
+15 Oct 2017,,"Carrington, New South Wales, Australia",Person_276,Company_299,Industry_06,IT/Data/Digital
+10 Oct 2017,10001+,"Munich, Bavaria, Germany",Person_277,Company_078,Industry_15,Sales/Business Development
+26 Sep 2017,10001+,"Norwood, Massachusetts, United States",Person_278,Company_029,Industry_12,Engineering/Technical/Science
+24 Sep 2017,,"Gordon, New South Wales, Australia",Person_279,Freelance,Industry_01,Freelance
+23 Sep 2017,51 to 200,"Moscow, Moscow City, Russia",Person_280,Company_146,Industry_16,Management
+23 Sep 2017,1001 to 5000,"Beijing, China",Person_281,Company_039,Focus_Industry_1,Procurement/Supply Chain
+22 Sep 2017,501 to 1000,"Moscow, Moscow City, Russia",Person_282,Company_422,Industry_12,IT/Data/Digital
+09 Aug 2017,5001 to 10000,"The Rocks, New South Wales, Australia",Person_283,Company_198,Industry_05,Other
+12 Jul 2017,10001+,"Baar, Zug, Switzerland",Person_284,Company_115,Focus_Industry_4,Legal/Compliance
+07 Jul 2017,,"St Petersburg, St Petersburg City, Russia",Person_285,Freelance,Industry_01,Freelance
+25 Jun 2017,,"Beijing, China",Person_286,Company_028,Industry_13,Legal/Compliance
+16 Jun 2017,5001 to 10000,Poland,Person_287,Company_157,Industry_05,Other
+05 Jun 2017,201 to 500,"Hamburg, Hamburg, Germany",Person_288,Company_076,Focus_Industry_3,Other
+04 Jun 2017,,"Ashdod, South District, Israel",Person_289,Company_178,Industry_11,Management
+29 May 2017,,"Moscow, Moscow City, Russia",Person_290,Company_019,Industry_05,Management
+18 May 2017,10001+,"Toronto, Ontario, Canada",Person_291,Company_230,Industry_05,Other
+16 May 2017,10001+,"Moscow, Moscow City, Russia",Person_292,Company_262,Industry_12,Management
+18 Apr 2017,1001 to 5000,"Boston, Massachusetts, United States",Person_293,Company_316,Industry_01,Other
+14 Apr 2017,1001 to 5000,"Paris, Île-de-France, France",Person_294,Company_132,Industry_12,Management
+09 Apr 2017,501 to 1000,"London, England, United Kingdom",Person_295,Company_291,Industry_15,Sales/Business Development
+03 Apr 2017,1001 to 5000,"Mexico City, Mexico",Person_296,Company_219,Focus_Industry_1,Management
+23 Mar 2017,,Greater Barcelona Metropolitan Area,Person_297,Company_322,Industry_15,Procurement/Supply Chain
+23 Mar 2017,51 to 200,France,Person_298,Company_242,Industry_04,Management
+19 Mar 2017,,"Araucanía Region, Chile",Person_299,Company_236,Industry_16,Other
+19 Mar 2017,,Uzbekistan,Person_300,Company_113,Focus_Industry_1,Communications
+09 Mar 2017,10001+,Nashville Metropolitan Area,Person_301,Company_054,Industry_12,Freelance
+07 Mar 2017,10001+,United Arab Emirates,Person_302,Company_155,Focus_Industry_1,HR/People/Talent
+03 Mar 2017,,Estonia,Person_303,Company_105,Industry_04,Management
+01 Mar 2017,51 to 200,Ukraine,Person_304,Company_280,Industry_16,Communications
+16 Feb 2017,10001+,Kazakhstan,Person_305,Company_203,Industry_02,Other
+15 Feb 2017,,Ukraine,Person_306,Company_184,Industry_07,Communications
+17 Jun 2024,5001 to 10000,South Africa,Person_307,Company_094,Focus_Industry_2,Marketing
+13 Feb 2017,5001 to 10000,Ukraine,Person_308,Company_400,Industry_06,Management
+08 Feb 2017,501 to 1000,Saudi Arabia,Person_309,Company_333,Industry_04,Management
+05 Feb 2017,11 to 50,Israel,Person_310,Company_032,Industry_01,Management
+01 Feb 2017,1001 to 5000,"Moscow City, Russia",Person_311,Company_305,Industry_04,Legal/Compliance
+22 Jan 2017,,"Baltimore City County, Maryland, United States",Person_312,Company_256,Industry_01,Other
+21 Jan 2017,11 to 50,Israel,Person_313,Company_087,Industry_14,Management
+12 Jan 2017,2 to 10,Greater Paris Metropolitan Region,Person_314,Company_412,Industry_09,Management
+12 Jan 2017,,"Zurich, Switzerland",Person_315,Company_223,Industry_04,Management
+11 Jan 2017,,Italy,Person_316,Company_207,Industry_08,Other
+10 Jan 2017,10001+,"New York, New York, United States",Person_317,Company_017,Industry_12,Management
+10 Jan 2017,,"Riyadh, Saudi Arabia",Person_318,Company_226,Industry_01,Management
+10 Jan 2017,11 to 50,"Cirencester, England, United Kingdom",Person_319,Company_122,Industry_02,Management
+10 Jan 2017,2 to 10,"Melbourne, Victoria, Australia",Person_320,Company_114,Industry_05,Management
+05 Jan 2017,,Italy,Person_321,,,Unknown
+29 Dec 2016,,"Catania, Sicily, Italy",Person_322,Company_179,Industry_10,Other
+16 Dec 2016,,"Jerusalem District, Israel",Person_323,,Industry_13,Legal/Compliance
+10 Dec 2016,,"Moscow, Moscow City, Russia",Person_324,Company_431,Focus_Industry_3,Other
+04 Dec 2016,,"Paris, Île-de-France, France",Person_325,Company_376,Industry_15,Management
+03 Nov 2016,,Russia,Person_326,Freelance,Industry_04,Freelance
+02 Nov 2016,myself only,"Almaty, Almaty, Kazakhstan",Person_327,Freelance,Industry_05,Freelance
+31 Oct 2016,,"Tbilisi, Georgia",Person_328,Company_405,Industry_06,Media Creation
+26 Oct 2016,1001 to 5000,Cyprus,Person_329,Company_102,Industry_04,IT/Data/Digital
+25 Oct 2016,,Russia,Person_330,Freelance,Industry_04,Freelance
+21 Oct 2016,1001 to 5000,Greater Paris Metropolitan Region,Person_331,Company_039,Focus_Industry_1,Management
+10 Oct 2016,10001+,Russia,Person_332,Company_182,Industry_04,Communications
+06 Oct 2016,201 to 500,"Prague, Czechia",Person_333,Company_377,Industry_12,Management
+25 Sep 2016,11 to 50,"Haifa District, Israel",Person_334,Company_246,Industry_04,Other
+22 Sep 2016,,"Tbilisi, Georgia",Person_335,Company_053,Industry_06,Management
+19 Sep 2016,,"Moscow, Moscow City, Russia",Person_336,Company_108,Industry_06,Communications
+15 Sep 2016,10001+,"Paris, Île-de-France, France",Person_337,Company_165,Industry_12,Other
+11 Sep 2016,10001+,"San Jose, California, United States",Person_338,Company_215,Industry_12,Management
+07 Sep 2016,,Russia,Person_339,Company_421,Industry_13,Management
+07 Sep 2016,201 to 500,Kazakhstan,Person_340,Company_119,Industry_04,Communications
+04 Sep 2016,11 to 50,"New York, New York, United States",Person_341,Company_266,Industry_12,Management
+27 Aug 2016,,"Washington, District of Columbia, United States",Person_342,Company_015,Industry_12,Management
+21 Aug 2016,,"Bashkortostan, Russia",Person_343,Company_164,Industry_06,Education/Training/Academia
+08 Aug 2016,501 to 1000,"Moscow, Moscow City, Russia",Person_344,Company_254,Industry_06,IT/Data/Digital
+03 Aug 2016,,Sweden,Person_345,Company_005,Industry_04,Management
+20 Jul 2016,,Russia,Person_346,,,Unknown
+20 Jul 2016,,Russia,Person_346,,,Unknown
+12 Aug 2013,,Russia,Person_346,,,Unknown
+12 Aug 2013,,Russia,Person_346,,,Unknown
+19 Jul 2016,10001+,"Grenoble, Auvergne-Rhône-Alpes, France",Person_347,Company_334,Focus_Industry_4,Management
+27 Jun 2016,10001+,"Paris, Île-de-France, France",Person_348,Company_356,Focus_Industry_4,Sales/Business Development
+24 Jun 2016,,United Kingdom,Person_349,Company_112,Industry_01,Management
+24 Jun 2016,,United Kingdom,Person_350,Company_095,Industry_05,Management
+31 May 2016,,"Da Lat, Lam Dong, Vietnam",Person_351,Freelance,Industry_16,Freelance
+16 May 2016,501 to 1000,"Doha, Qatar",Person_352,Company_327,Focus_Industry_1,Other
+03 May 2016,,Kazakhstan,Person_353,Company_253,Focus_Industry_1,Management
+29 Apr 2016,1001 to 5000,"Moscow, Moscow City, Russia",Person_354,Company_425,Industry_10,Consultant/Advisor/Coach
+29 Apr 2016,,"Laguna Beach, California, United States",Person_355,Company_366,Industry_11,Management
+25 Apr 2016,10001+,"Moscow, Moscow City, Russia",Person_356,Company_158,Industry_08,IT/Data/Digital
+25 Apr 2016,10001+,Greater Houston,Person_357,Company_075,Focus_Industry_1,IT/Data/Digital
+20 Apr 2016,1001 to 5000,"Nancy, Grand Est, France",Person_358,Company_035,Industry_12,Marketing
+30 Mar 2016,1001 to 5000,"Stuttgart, Baden-Württemberg, Germany",Person_359,Company_098,Industry_06,Management
+22 Mar 2016,2 to 10,Berlin Metropolitan Area,Person_360,Company_166,Industry_04,Management
+03 Mar 2016,5001 to 10000,"City of Johannesburg, Gauteng, South Africa",Person_361,Company_157,Industry_05,Finance/Accounting
+02 Mar 2016,10001+,"Dubai, United Arab Emirates",Person_362,Company_155,Focus_Industry_1,Other
+17 Jun 2024,201 to 500,"Bridgeport, West Virginia, United States",Person_363,Company_031,Focus_Industry_1,Management
+09 Feb 2016,10001+,"Gurgaon, Haryana, India",Person_364,Company_230,Industry_05,IT/Data/Digital
+12 Jan 2016,,Luxembourg,Person_365,Company_153,Industry_04,Management
+19 Dec 2015,,"Tbilisi, Georgia",Person_366,Company_183,Industry_16,Engineering/Technical/Science
+18 Dec 2015,10001+,Russia,Person_367,Company_063,Industry_01,Other
+08 Dec 2015,,"Reston, Virginia, United States",Person_368,Company_059,Industry_05,IT/Data/Digital
+06 Dec 2015,11 to 50,"Berlin, Berlin, Germany",Person_369,Company_404,Industry_06,Education/Training/Academia
+06 Dec 2015,,"Moscow, Moscow City, Russia",Person_370,,Industry_10,Unknown
+30 Nov 2015,10001+,"Denver, Colorado, United States",Person_371,Company_334,Focus_Industry_4,Management
+29 Nov 2015,51 to 200,Russia,Person_372,Company_406,Industry_10,Management
+10 Nov 2015,,Frankfurt Rhine-Main Metropolitan Area,Person_373,Company_127,Focus_Industry_2,Management
+03 Nov 2015,11 to 50,"Houston, Texas, United States",Person_374,Company_396,Focus_Industry_4,Marketing
+03 Nov 2015,1001 to 5000,"Spring, Texas, United States",Person_375,Company_352,Focus_Industry_1,Finance/Accounting
+02 Nov 2015,5001 to 10000,"London, England, United Kingdom",Person_376,Company_365,Industry_01,Management
+02 Nov 2015,1001 to 5000,"Kaluga, Russia",Person_377,Company_142,Industry_12,Consultant/Advisor/Coach
+28 Oct 2015,,"Zhukovsky, Moscow, Russia",Person_378,Freelance,Industry_16,Freelance
+23 Oct 2015,,Kazakhstan,Person_379,Company_106,Focus_Industry_1,Management
+22 Oct 2015,11 to 50,"Marbella, Andalusia, Spain",Person_380,Freelance,Industry_06,Freelance
+13 Oct 2015,,"Zarasai District Municipality, Utena, Lithuania",Person_381,Freelance,Industry_16,Freelance
+10 Oct 2015,,"Kyiv, Kyiv City, Ukraine",Person_382,,Industry_12,Engineering/Technical/Science
+09 Oct 2015,,Russia,Person_383,Freelance,Focus_Industry_3,Freelance
+27 Sep 2015,,Ghana,Person_384,Company_414,Industry_04,Other
+25 Sep 2015,myself only,France,Person_385,Company_411,Industry_10,Other
+19 Sep 2015,1001 to 5000,"Houston, Texas, United States",Person_386,Company_033,Focus_Industry_1,Marketing
+19 Sep 2015,201 to 500,"Port Washington, New York, United States",Person_387,Company_314,Industry_13,Management
+16 Sep 2015,51 to 200,"Dubai, United Arab Emirates",Person_388,Company_130,Industry_04,Legal/Compliance
+09 Sep 2015,10001+,"Warsaw, Mazowieckie, Poland",Person_389,Company_042,Industry_05,Management
+27 Aug 2015,,"Moscow, Moscow City, Russia",Person_390,Company_423,Industry_01,Management
+21 Aug 2015,1001 to 5000,"Shanghai, China",Person_391,Company_022,Industry_13,Communications
+20 Aug 2015,,"Murmansk, Russia",Person_392,Company_363,Focus_Industry_1,Education/Training/Academia
+18 Aug 2015,10001+,"New York, New York, United States",Person_393,Company_150,Industry_12,Marketing
+29 Jul 2015,51 to 200,"Moscow, Moscow City, Russia",Person_394,Company_064,Industry_06,Management
+19 Jul 2015,501 to 1000,"Melbourne, Victoria, Australia",Person_395,Company_284,Industry_05,Marketing
+08 Jul 2015,,Russia,Person_396,Company_438,Industry_10,Communications
+07 Jul 2015,1001 to 5000,"Tbilisi, Georgia",Person_397,Company_294,Industry_12,Engineering/Technical/Science
+29 Jun 2015,,"Moscow, Moscow City, Russia",Person_398,Company_426,Industry_12,Management
+08 Jun 2015,,Russia,Person_399,Company_420,Industry_07,Engineering/Technical/Science
+14 May 2015,,Russia,Person_400,Company_313,Industry_08,Sales/Business Development
+22 Apr 2015,,"Moscow, Moscow City, Russia",Person_401,Company_355,Industry_04,Management
+13 Apr 2015,,"Moscow, Moscow City, Russia",Person_402,Company_170,Industry_04,Management
+10 Apr 2015,10001+,"Doha, Qatar",Person_403,Company_303,Industry_05,Management
+09 Apr 2015,11 to 50,United Kingdom,Person_404,Company_181,Industry_04,Management
+08 Apr 2015,11 to 50,"Los Angeles County, California, United States",Person_405,Company_218,Industry_12,Management
+06 Apr 2015,51 to 200,"Moscow, Moscow City, Russia",Person_406,Company_394,Industry_14,Finance/Accounting
+24 Mar 2015,,"Palermo, Sicily, Italy",Person_407,Company_416,Industry_13,Other
+24 Mar 2015,501 to 1000,United Arab Emirates,Person_408,Company_274,Focus_Industry_4,Marketing
+16 Mar 2015,10001+,"Houston, Texas, United States",Person_409,Company_325,Industry_12,Engineering/Technical/Science
+10 Mar 2015,,"Nanjing, Jiangsu, China",Person_410,Company_041,Industry_15,Other
+10 Mar 2015,51 to 200,Russia,Person_411,Company_301,Industry_01,Marketing
+09 Mar 2015,10001+,"Helsinki, Uusimaa, Finland",Person_412,Company_230,Industry_05,Management
+06 Mar 2015,,"Messina, Sicily, Italy",Person_413,Company_140,Industry_07,IT/Data/Digital
+06 Mar 2015,,"Oslo, Oslo, Norway",Person_414,,Industry_05,Marketing
+05 Mar 2015,10001+,"Chaoyang District, Beijing, China",Person_415,Company_055,Industry_05,Management
+20 Feb 2015,5001 to 10000,"Little Rock, Arkansas, United States",Person_416,Company_129,Industry_04,Management
+02 Feb 2015,,"Moscow, Moscow City, Russia",Person_417,Company_045,Industry_04,Management
+22 Jan 2015,10001+,Greater Madrid Metropolitan Area,Person_418,Company_230,Industry_05,Other
+12 Jan 2015,11 to 50,"Moscow, Moscow City, Russia",Person_419,Company_436,Industry_05,Management
+11 Jan 2015,201 to 500,Switzerland,Person_420,Company_168,Industry_12,Management
+29 Dec 2014,,"Berlin, Berlin, Germany",Person_421,Company_310,Industry_01,Management
+28 Dec 2014,,"Be'er Sheva, South District, Israel",Person_422,Company_200,Industry_12,Management
+23 Dec 2014,51 to 200,Russia,Person_423,Company_301,Industry_01,Other
+23 Dec 2014,10001+,"Moscow, Moscow City, Russia",Person_424,Company_251,Focus_Industry_1,Management
+23 Dec 2014,myself only,"Lausanne, Vaud, Switzerland",Person_425,Company_056,Industry_01,Sales/Business Development
+21 Dec 2014,,"San Jose, California, United States",Person_426,Company_237,Industry_12,Engineering/Technical/Science
+05 Dec 2014,,"Moscow, Moscow City, Russia",Person_427,Company_428,Industry_06,HR/People/Talent
+03 Dec 2014,,"London, England, United Kingdom",Person_428,Company_034,Industry_04,Consultant/Advisor/Coach
+15 Nov 2014,1001 to 5000,"London, England, United Kingdom",Person_429,Company_185,Industry_01,Media Creation
+15 Nov 2014,,"Moscow, Moscow City, Russia",Person_430,Freelance,Industry_01,Freelance
+02 Nov 2014,,"Calgary, Alberta, Canada",Person_431,Company_293,Focus_Industry_1,Management
+28 Oct 2014,,"Tomsk, Tomsk, Russia",Person_432,Company_288,Focus_Industry_1,Communications
+28 Oct 2014,,"Woking, England, United Kingdom",Person_433,Freelance,Industry_16,Freelance
+28 Oct 2014,,"Catania, Sicily, Italy",Person_434,,Industry_13,Other
+27 Oct 2014,,"Moscow, Moscow City, Russia",Person_435,Company_208,Industry_13,Legal/Compliance
+22 Oct 2014,,Russia,Person_436,,,Unknown
+21 Oct 2014,,"Moscow, Moscow City, Russia",Person_437,Company_427,Industry_06,Education/Training/Academia
+17 Oct 2014,501 to 1000,United Arab Emirates,Person_438,Company_151,Industry_10,Other
+16 Oct 2014,,"Moscow, Moscow City, Russia",Person_439,Company_219,Focus_Industry_1,Marketing
+25 Sep 2014,10001+,"Nanterre, Île-de-France, France",Person_440,Company_379,Industry_07,Management
+23 Sep 2014,,Russia,Person_441,,,Unknown
+21 Sep 2014,5001 to 10000,"Montreal, Quebec, Canada",Person_442,Company_062,Industry_01,Other
+21 Sep 2014,,"Stockholm County, Sweden",Person_443,Company_068,Industry_01,Consultant/Advisor/Coach
+18 Aug 2014,1001 to 5000,"Tel Aviv-Yafo, Tel Aviv District, Israel",Person_444,Company_133,Industry_14,Other
+28 Jul 2014,,"Moscow, Moscow City, Russia",Person_445,Company_330,Industry_15,Sales/Business Development
+10 Jul 2014,,"Marseille, Provence-Alpes-Côte d'Azur, France",Person_446,Freelance,Industry_12,Freelance
+02 Jul 2014,10001+,"Moscow, Moscow City, Russia",Person_447,Company_121,Industry_03,Management
+23 Jun 2014,,"Prague, Czechia",Person_448,Company_062,Industry_01,IT/Data/Digital
+16 Jun 2014,,Russia,Person_449,,,Unknown
+16 Jun 2014,,"Moscow, Moscow City, Russia",Person_450,Company_429,Industry_13,Legal/Compliance
+16 Jun 2014,10001+,"Copenhagen, Capital Region of Denmark, Denmark",Person_451,Company_332,Focus_Industry_3,Other
+22 May 2014,1001 to 5000,"Moscow, Moscow City, Russia",Person_452,Company_249,Industry_01,Other
+06 May 2014,,"St.-Dié, Grand Est, France",Person_453,Freelance,Industry_02,Freelance
+05 May 2014,10001+,Russia,Person_454,Company_115,Focus_Industry_4,Other
+30 Apr 2014,,"Oakville, Ontario, Canada",Person_455,Company_239,Industry_04,Management
+30 Apr 2014,,Russia,Person_456,Company_127,Focus_Industry_2,Engineering/Technical/Science
+30 Apr 2014,,"Tomsk, Russia",Person_457,Company_219,Focus_Industry_1,Communications
+28 Apr 2014,51 to 200,Greater Toulouse Metropolitan Area,Person_458,Company_354,Industry_04,Sales/Business Development
+22 Apr 2014,,Russia,Person_459,,Focus_Industry_2,Unknown
+21 Apr 2014,,San Francisco Bay Area,Person_460,Company_346,Industry_10,Management
+14 Apr 2014,,"Moscow, Moscow City, Russia",Person_461,Company_437,Industry_07,Sales/Business Development
+19 Mar 2014,201 to 500,"Almaty, Kazakhstan",Person_462,Company_020,Industry_08,Management
+18 Mar 2014,,"Moscow, Moscow City, Russia",Person_463,Company_378,Industry_03,Management
+19 Feb 2014,,"Moscow, Moscow City, Russia",Person_464,,Industry_01,Freelance
+18 Feb 2014,,Russia,Person_465,Company_302,Industry_01,HR/People/Talent
+18 Feb 2014,,"Bayern, Bavaria, Germany",Person_466,Company_388,Industry_08,Other
+12 Feb 2014,10001+,"Münchenstein, Basel-Country, Switzerland",Person_467,Company_189,Focus_Industry_3,Other
+28 Jan 2014,,Russia,Person_468,,Focus_Industry_1,Communications
+27 Jan 2014,,Kazakhstan,Person_469,Company_111,Industry_13,Other
+21 Jan 2014,,"Moscow, Moscow City, Russia",Person_470,Company_024,Industry_02,Engineering/Technical/Science
+13 Jan 2014,,"St Petersburg, St Petersburg City, Russia",Person_471,Company_289,Industry_07,Management
+11 Jan 2014,201 to 500,Russia,Person_472,Company_403,Industry_05,Management
+09 Jan 2014,201 to 500,"Tashkent, Uzbekistan",Person_473,Company_260,Industry_04,Communications
+08 Jan 2014,,"Moscow, Moscow City, Russia",Person_474,Freelance,Industry_01,Freelance
+09 Dec 2013,,"Lexington, Massachusetts, United States",Person_475,Company_250,Industry_06,Communications
+09 Dec 2013,51 to 200,"Calgary, Alberta, Canada",Person_476,Company_088,Industry_06,Management
+01 Dec 2013,,"New York, New York, United States",Person_477,,Industry_12,Unknown
+27 Nov 2013,,Russia,Person_478,Freelance,Industry_16,Freelance
+11 Nov 2013,,"Sugar Land, Texas, United States",Person_479,Company_162,Industry_02,Management
+05 Nov 2013,,"Moscow, Moscow City, Russia",Person_480,Company_169,Industry_16,Management
+14 Jun 2024,10001+,Belgium,Person_481,Company_323,Industry_03,Consultant/Advisor/Coach
+16 Oct 2013,1001 to 5000,"Nyack, New York, United States",Person_482,Company_358,Industry_01,Management
+11 Oct 2013,,"Tatarstan, Russia",Person_483,Freelance,Industry_12,Freelance
+07 Oct 2013,,"Moscow, Moscow City, Russia",Person_484,Company_424,Industry_01,Media Creation
+07 Oct 2013,10001+,"WP. Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",Person_485,Company_325,Industry_12,Sales/Business Development
+27 Sep 2013,,United Arab Emirates,Person_486,Company_100,Industry_05,Management
+20 Sep 2013,501 to 1000,"Washington, District of Columbia, United States",Person_487,Company_277,Industry_01,IT/Data/Digital
+20 Sep 2013,,Russia,Person_488,Company_318,,Marketing
+19 Sep 2013,5001 to 10000,"Lexington, Massachusetts, United States",Person_489,Company_281,Industry_12,Engineering/Technical/Science
+09 Sep 2013,,Russia,Person_490,,,Unknown
+09 Sep 2013,,"Greater London, England, United Kingdom",Person_491,Freelance,Industry_01,Freelance
+31 Aug 2013,2 to 10,United Arab Emirates,Person_492,Company_231,Industry_01,Management
+29 Aug 2013,10001+,Greater Paris Metropolitan Region,Person_493,Company_356,Focus_Industry_4,Marketing
+22 Aug 2013,,"Nizhniy Novgorod, Russia",Person_494,Freelance,Industry_16,Freelance
+19 Aug 2013,2 to 10,"Moscow, Moscow City, Russia",Person_495,Company_265,Focus_Industry_1,HR/People/Talent
+13 Aug 2013,,Israel,Person_496,Company_252,Industry_06,Other
+12 Aug 2013,201 to 500,"Moscow, Moscow City, Russia",Person_497,Company_171,Industry_06,Management
+12 Aug 2013,,New York City Metropolitan Area,Person_497,Company_171,Industry_06,Management
+19 Apr 2011,201 to 500,"Moscow, Moscow City, Russia",Person_497,Company_171,Industry_06,Management
+07 Jul 2016,,Russia,Person_498,Company_110,Focus_Industry_1,Management
+11 Aug 2013,,"Brooklyn, New York, United States",Person_499,Company_290,Industry_01,Management
+06 Aug 2013,10001+,Russia,Person_500,Company_258,Focus_Industry_2,Management
+05 Aug 2013,10001+,Russia,Person_501,Company_115,Focus_Industry_4,Management
+01 Aug 2013,,Greater Paris Metropolitan Region,Person_502,Company_220,Industry_05,Freelance
+31 Jul 2013,10001+,"Austin, Texas, United States",Person_503,Company_037,Industry_12,Management
+31 Jul 2013,11 to 50,United Arab Emirates,Person_504,Company_326,Industry_05,Other
+06 Jul 2018,10001+,"Pontcharra, Auvergne-Rhône-Alpes, France",Person_505,Company_391,Industry_14,Sales/Business Development
+12 Jul 2013,1001 to 5000,Kazakhstan,Person_506,Company_195,Focus_Industry_1,Communications
+25 Jun 2013,10001+,"Center, Texas, United States",Person_507,Company_370,Industry_03,Finance/Accounting
+29 May 2013,10001+,"Dubai, Dubai, United Arab Emirates",Person_508,Company_025,Industry_05,Consultant/Advisor/Coach
+27 May 2013,11 to 50,"Miami, Florida, United States",Person_509,Company_402,Industry_06,Management
+05 May 2013,10001+,Switzerland,Person_510,Company_145,Focus_Industry_2,Legal/Compliance
+01 May 2013,10001+,"Houston, Texas, United States",Person_511,Company_413,Focus_Industry_1,Legal/Compliance
+26 Apr 2013,,Fiji,Person_512,Company_263,Industry_10,Management
+21 Apr 2013,1001 to 5000,"Dubai, United Arab Emirates",Person_513,Company_008,Industry_16,Marketing
+05 Apr 2013,,"Kansas City, Kansas, United States",Person_514,Company_209,Industry_06,Other
+04 Apr 2013,10001+,"Moscow, Moscow City, Russia",Person_515,Company_115,Focus_Industry_4,Management
+31 Mar 2013,10001+,"Long Branch, New Jersey, United States",Person_516,Company_082,Industry_06,Other
+29 Mar 2013,,"St Petersburg, St Petersburg City, Russia",Person_517,Company_397,Industry_06,Marketing
+07 Mar 2013,,United States,Person_518,Company_013,Industry_05,Management
+21 Jan 2013,10001+,Switzerland,Person_519,Company_374,Industry_06,Marketing
+19 Jan 2013,,"Bashkortostan, Russia",Person_520,Freelance,Industry_16,Freelance
+22 Nov 2012,,United Arab Emirates,Person_521,Company_410,Industry_08,Management
+21 Nov 2012,,"Cleveland, Ohio, United States",Person_522,Company_080,Focus_Industry_2,Management
+29 Oct 2012,10001+,Moscow Metropolitan Area,Person_523,Company_279,Industry_07,Other
+14 Oct 2012,,"Moscow, Moscow City, Russia",Person_524,Freelance,Industry_16,Freelance
+18 Aug 2012,1001 to 5000,Frankfurt Rhine-Main Metropolitan Area,Person_525,Company_399,Industry_12,IT/Data/Digital
+22 May 2019,11 to 50,"Moscow, Moscow City, Russia",Person_526,Company_040,Industry_04,Marketing
+18 Jul 2012,2 to 10,"Paris, Île-de-France, France",Person_527,Company_070,Industry_04,Management
+06 Jul 2012,1001 to 5000,Kyrgyzstan,Person_528,Company_407,Focus_Industry_1,Other
+05 Jul 2012,11 to 50,United Kingdom,Person_529,Company_434,Industry_06,Other
+29 Jun 2012,,"Zelenogradsk, Kaliningrad, Russia",Person_530,Freelance,Focus_Industry_1,Freelance
+11 Apr 2012,501 to 1000,"Moscow, Moscow City, Russia",Person_531,Company_380,Industry_12,Management
+16 Jan 2012,,Russia,Person_532,Company_432,Industry_01,Communications
+11 Jan 2012,,"Evanston, Illinois, United States",Person_533,Company_159,Industry_01,IT/Data/Digital
+03 Dec 2011,,Ukraine,Person_534,Freelance,Industry_16,Freelance
+18 Oct 2011,,Greater Paris Metropolitan Region,Person_535,Company_134,Industry_04,Management
+25 Sep 2011,,"Bashkortostan, Russia",Person_536,Company_247,Industry_16,Freelance
+23 Sep 2011,11 to 50,"Burpengary, Queensland, Australia",Person_537,Company_016,Industry_05,Other
+20 Sep 2011,,"City of Freeport, The Bahamas",Person_538,Company_419,Industry_04,Other
+20 Sep 2011,,Russia,Person_539,Company_002,Industry_08,Finance/Accounting
+14 Sep 2011,,"Moscow, Moscow City, Russia",Person_540,Company_261,Industry_12,IT/Data/Digital
+14 Sep 2011,11 to 50,"Moscow, Moscow City, Russia",Person_541,Company_368,Focus_Industry_1,Management
+13 Sep 2011,10001+,"London, England, United Kingdom",Person_542,Company_154,Industry_08,Other
+13 Sep 2011,1001 to 5000,United States,Person_543,Company_175,Industry_10,Sales/Business Development
+13 Sep 2011,,"Moscow, Moscow City, Russia",Person_544,Company_343,Industry_16,Freelance
+13 Sep 2011,51 to 200,"Moscow, Moscow City, Russia",Person_545,Company_090,Industry_12,Management
+19 Apr 2011,,New York City Metropolitan Area,Person_497,Company_171,Industry_06,Management
