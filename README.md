@@ -96,7 +96,9 @@ While the full notebook for data cleaning is not published (due to privacy const
 View on Tableau Public:  
 🔗 [LinkedIn Network Dashboard](https://public.tableau.com/views/LinkedInNetworkGrowth/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-📊 [Dashboard Preview](Dashboard 2-2.png)
+📊 Dashboard Preview
+<img width="3198" height="1798" alt="Dashboard 2-2" src="https://github.com/user-attachments/assets/20767981-3c66-4921-a47d-822140b30390" />
+
 
 - Switch views between **2024** and **All Time**
 - Filter by **Focus Industry**
