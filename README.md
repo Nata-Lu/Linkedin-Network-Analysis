@@ -88,13 +88,13 @@ While the full notebook for data cleaning is not published (due to privacy const
 
 ### Exploratory Data Analysis
 
-📓 Notebook: [`notebooks/EDA.ipynb`](notebooks/EDA.ipynb)  
-📁 Dataset: [`data/linkedin_connections_anonymized_public.csv`](data/linkedin_connections_anonymized_public.csv)
+📓 Notebook: [EDA.ipynb](EDA.ipynb)  
+📁 Dataset: [linkedin_connections_anonymized_public.csv](linkedin_connections_anonymized_public.csv)
 
 ### Interactive Dashboard
 
 View on Tableau Public:  
-🔗 [LinkedIn Network Dashboard](https://public.tableau.com/app/profile/YOUR_LINK_HERE)
+🔗 [LinkedIn Network Dashboard][(https://public.tableau.com/views/LinkedInNetworkGrowth/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 
 ![Dashboard Preview](assets/dashboard_preview.jpg)
 
